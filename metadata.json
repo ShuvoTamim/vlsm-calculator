@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VLSM Calculator By Shuvo Tamim",
+  "description": "A React app that uses the Gemini API to perform Variable Length Subnet Mask (VLSM) calculations.",
+  "requestFramePermissions": []
+}
